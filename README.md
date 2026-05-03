@@ -19,3 +19,4 @@ A responsive real-time chat application built using React.js, Node.js, Express.j
 - Socket.IO
 - CSS
 
+“I developed a responsive real-time chat application using React.js and Socket.IO with WebSocket-based communication, message history handling, auto-scroll functionality, and responsive UI design.”
